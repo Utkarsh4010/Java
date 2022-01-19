@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;MultipleInheritance&apos; to &apos;MultipleInheritanceByInterface&apos;&#x0D;&#x0A;- Original project: &apos;Abstrsction&apos;&#x0D;&#x0A;- Original element: &apos;MultipleInheritance&apos;&#x0D;&#x0A;- Renamed element: &apos;MultipleInheritanceByInterface&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MultipleInheritance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{MultipleInheritance.java[MultipleInheritance" matchStrategy="1" name="MultipleInheritanceByInterface" qualified="false" references="true" similarDeclarations="false" stamp="1637236019259" textual="false" version="1.0"/>
+</session>
